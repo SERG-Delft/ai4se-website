@@ -1,0 +1,14 @@
+exclude: [".gitignore", "README.md", "Rakefile", ]
+highlighter: rouge
+future: true
+
+relative_permalinks: false
+
+title : AI for Software Engineering
+tagline:
+author :
+  name : Arie van Deursen
+  github : serg-delft
+
+baseurl: "/ai4se" # the subpath of your site, e.g. /blog
+url: "https://se.ewi.tudelft.nl/" # the base hostname & protocol for your site, e.g.
