@@ -17,3 +17,6 @@ collections:
   tracks :
     output: true
     sort_by: track-id
+  news :
+    output: true
+    sort_by: date
