@@ -1,10 +1,17 @@
+{% if news != empty %}
+<h5 class="news-header">{{ news-header }}</h5>
 {% for item in news -%}
 <div class="news-item">
     <span class="news-item__date">
-       {{item.date | date_to_long_string}}:
+        {{item.date | date_to_long_string}}:
     </span>
     <span class="news-item__title">
         <a href="{{item.url | relative_url}}">{{item.title}}</a>
     </span>
 </div>
 {% endfor %}
+{% else %}
+<span class="news-header--empty">
+</span>
+{% endif %}
+<br />
