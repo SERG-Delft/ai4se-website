@@ -11,3 +11,6 @@ layout: default
 <br/>
 
 {{ content }}
+
+{% assign news = site.news | where_exp: "item", "item.tracks contains page.track-id" %}
+{% include news-feed.html %}

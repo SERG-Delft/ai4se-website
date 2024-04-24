@@ -8,13 +8,3 @@ phd: To Be Hired
 ---
 
 This track aims to embed emerging large language model practices, such as code generation or code explanation, into developers' workflows without disturbing users to improve their productivity. To do so, we will study user interaction with the model in IDEs, research the user experience, and investigate how to best build trust between developers and their intelligent agents.
-
-[//]: # ({% assign track-news = site.news | where_exp: "item", "item.tracks contains page.track-id" %})
-
-[//]: # (##### Recent news)
-
-[//]: # ({% for item in track-news -%})
-
-[//]: # ([{{item.title}}]&#40;{{item.url | relative_url}}&#41;)
-
-[//]: # ({% endfor %})
