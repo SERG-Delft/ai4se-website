@@ -1,6 +1,6 @@
 {% if news != empty %}
 <h5 class="news-header">{{ news-header }}</h5>
-{% for item in news -%}
+{% for item in news reversed -%}
 <div class="news-item">
     <span class="news-item__date">
         {{item.date | date_to_long_string}}:
