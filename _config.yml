@@ -10,7 +10,8 @@ author :
   name : Arie van Deursen
   github : serg-delft
 
-url: "https://se.ewi.tudelft.nl/ai4se"
+baseurl: "/ai4se" # the subpath of your site, e.g. /blog
+url: "https://se.ewi.tudelft.nl/" # the base hostname & protocol for your site, e.g.
 
 collections:
   tracks :
