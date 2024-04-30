@@ -1,7 +1,7 @@
 ---
 layout: news-item
 date: 2024-04-15
-title: "Turgut Reis Kursun started as PhD in Track 1"
+title: "Turgut Reis Kursun started as PhD candidate in Track 1"
 tracks: [1]
 ---
 
