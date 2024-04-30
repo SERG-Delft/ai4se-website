@@ -5,7 +5,7 @@ title: "Turgut Reis Kursun started as PhD candidate in Track 1"
 tracks: [1]
 ---
 
-![](/img/turgut.jpeg){: width="20%" style="float: right"}
+![]({{ '/img/turgut.jpeg' | relative_url }}){: width="20%" style="float: right"}
 
 We are delighted that Turgut Reis Kursun has started as a PhD candidate in Track 1!
 
