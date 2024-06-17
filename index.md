@@ -20,7 +20,6 @@ Software Engineering Research Group from TU Delft.
 
 AI4SE was launched in 2023, and participates in the Innovation Center for Artificial Intelligence ([ICAI]) as one of its labs. 
 
-**[We have 2 PhD positions open in AI4SE!](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures?searchCriteria[0][key]=keywords&searchCriteria[0][values][]=ai4se&searchCriteria[1][key]=Resultsperpage&searchCriteria[1][values][]=10)** 
 
 
 [icai]: https://icai.ai/
