@@ -22,4 +22,4 @@ collections:
     sort_by: date
   publications :
     output: true
-    sort_by: date
+    sort_by: year
