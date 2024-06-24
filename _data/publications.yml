@@ -3,7 +3,8 @@
     - Agnia Sergeyuk
     - Sergey Titov
     - Maliheh Izadi
-  track: 3
+  tracks:
+    - 3
   venue: IDE Workshop (ICSE 2024)
   year: 2024
   preprint: https://arxiv.org/pdf/2401.10739

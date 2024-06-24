@@ -15,3 +15,7 @@ layout: default
 {% assign news = site.news | where_exp: "item", "item.tracks contains page.track-id" %}
 {% assign news-header = "Track news" %}
 {% include news-feed.html %}
+
+{% assign publications = site.data.publications | where_exp: "item", "item.tracks contains page.track-id" %}
+{% assign publications-header = "Publications" %}
+{% include publications-list.html %}
