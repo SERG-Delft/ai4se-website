@@ -1,3 +1,16 @@
+- title: Evolutionary Generative Fuzzing for Differential Testing of the Kotlin Compiler
+  authors:
+    - Calin Georgescu
+    - Mitchell Olsthoorn
+    - Pouria Derakhshanfar
+    - Marat Akhin
+    - Annibale Panichella
+  tracks:
+    - 1
+  venue: FSE 2024 - Industry Track
+  year: 2024
+  preprint: https://arxiv.org/pdf/2401.06653
+
 - title: In-IDE Human-AI Experience in the Era of Large Language Models; A Literature Review
   authors:
     - Agnia Sergeyuk
