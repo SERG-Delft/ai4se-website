@@ -48,11 +48,11 @@
       affiliation: TUDelft
       photo_url: img/avatars/maliheh.jpeg
     - name: Egor Bogomolov
-      role: Track Lead/PhD Student
+      role: Track Lead/PhD Researcher
       affiliation: JetBrains
       photo_url: img/avatars/egor-b.jpeg
     - name: Tim Olivier van Dam
-      role: Intern/MSc student
+      role: Intern/MSc Student
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/tim.jpeg
 
@@ -71,11 +71,11 @@
       affiliation: JetBrains
       photo_url: img/avatars/agnia.jpeg
     - name: Andrei-Cristian Ionescu
-      role: Intern/MSc student
+      role: Intern/MSc Student
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/andrei.jpeg
     - name: Frank van der Heijden
-      role: Intern/MSc student
+      role: Intern/MSc Student
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/frank.jpeg
     - name: Remco Schrijver
