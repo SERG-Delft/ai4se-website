@@ -1,7 +1,7 @@
 - category: Administrators
   people:
     - name: Arie van Deursen
-      role: Academic Administrator
+      role: Academic Lead
       affiliation: TUDelft
       photo_url: img/avatars/arie.jpeg
     - name: Maliheh Izadi
@@ -9,7 +9,7 @@
       affiliation: TUDelft
       photo_url: img/avatars/maliheh.jpeg
     - name: Vladimir Kovalenko
-      role: Industry Administrator
+      role: Industry Lead
       affiliation: JetBrains
       photo_url: img/avatars/vladimir.png
     - name: Pouria Derakhshanfar
