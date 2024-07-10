@@ -1,0 +1,87 @@
+- category: Adminstrators
+  people:
+    - name: Vladimir Kovalenko
+      role: Industry Adminstrator
+      photo_url: img/avatars/vladimir.png
+    - name: Pouria Derakhshanfar
+      role: Industry Adminstrator
+      photo_url: img/avatars/pouria.jpeg
+    - name: Arie van Deursen
+      role: Academic Adminstrator
+      photo_url: img/avatars/arie.jpeg
+    - name: Maliheh Izadi
+      role: Academic Adminstrator
+      photo_url: img/avatars/maliheh.jpeg
+
+
+- category: Track 1 - Validation of Generated Code
+  people:
+    - name: Pouria Derakhshanfar
+      role: Track Lead
+      photo_url: img/avatars/pouria.jpeg
+    - name: Annibale Panichella
+      role: Track Lead
+      photo_url: img/avatars/annibale.jpeg
+    - name: Azat Abdullin
+      role: PhD Researcher
+      photo_url: img/avatars/azat.jpeg
+    - name: Marat Akhin
+      role: Researcher
+      photo_url: img/avatars/marat.jpeg
+    - name: Remco Schrijver
+      role: Intern/MSc Student
+      photo_url: img/avatars/remco.jpeg
+
+- category: Track 2 - Adaptation of Large Language Models
+  people:
+    - name: Egor Bogomolov
+      role: Track Lead/PhD Student
+      photo_url: img/avatars/egor-b.jpeg
+    - name: Maliheh Izadi
+      role: Track lead
+      photo_url: img/avatars/maliheh.jpeg
+    - name: Tim Olivier van Dam
+      role: Intern/MSc student
+      photo_url: img/avatars/tim.jpeg
+      
+- category: Track 3 - Interactive and Aligned IDE
+  people:
+    - name: Sergey Titov
+      role: Track lead
+      photo_url: img/avatars/sergey.jpeg
+    - name: Maliheh Izadi
+      role: Track lead
+      photo_url: img/avatars/maliheh.jpeg
+    - name: Agnia Sergeyuk
+      role: PhD Researcher
+      photo_url: img/avatars/agnia.jpeg
+    - name: Andrei-Cristian Ionescu 
+      role: Intern/MSc student
+      photo_url: img/avatars/andrei.jpeg
+    - name: Frank van der Heijden
+      role: Intern/MSc student
+      photo_url: img/avatars/frank.jpeg
+    - name: Remco Schrijver
+      role: Intern/MSc Student
+      photo_url: img/avatars/remco.jpeg
+
+- category: Track 4 - Utilizing Runtime Information to Improve Development Processes
+  people:
+    - name: Egor Klimov
+      role: Track Lead/PhD Researcher
+      photo_url: img/avatars/egor-k.jpeg
+    - name: Annibale Panichella
+      role: Track Lead
+      photo_url: img/avatars/annibale.jpeg
+
+- category: Track 5 - Intelligent Teaching Assistant in Programming Education
+  people:
+    - name: Anastasiia Birillo
+      role: Track Lead
+      photo_url: img/avatars/anastasiia.jpeg
+    - name: Gosia Migut
+      role: Track Lead
+      photo_url: img/avatars/gosia.jpg
+    - name: Fenia Aivaloglou
+      role: Track Lead
+      photo_url: img/avatars/fenia.jpg
