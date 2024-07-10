@@ -24,6 +24,16 @@
       </div><br>
       <b>{{ include.person.name }}</b>
       <p>{{ include.person.role }}</p>
+      <p style="top-margin=0px;">
+      {% if person.affiliation %}
+      {% if person.affiliation contains "TUDelft" %}
+        <img src="img/tudelft-color-logo.png" alt="TUDelft Logo" style="width: 80px; height: 40px;">
+      {% endif %}
+      {% if person.affiliation contains "JetBrains" %}
+        <img src="img/jetbrains.png" alt="JetBrains Logo" style="width: 50px; height: 50px;">
+      {% endif %}
+    {% endif %}
+      </p>
     </div>
 </html>
      
