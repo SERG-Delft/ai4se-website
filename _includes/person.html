@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <style>
+      .image-container {
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        overflow: hidden;
+        margin-right: 20px;
+        margin-bottom: 10px;
+        position: relative;
+        
+    }
+    .image-container img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* Ensures the image covers the div without overflow */
+    }
+    </style>
+  </head>
+    <div style="display: inline-block; margin-right: 20px;">
+      <div class="image-container">
+      <img src="{{ include.person.photo_url }}" alt="{{ include.person.name }}" style="width:200px; height:200px; margin-bottom:10px;"/>
+      </div><br>
+      <b>{{ include.person.name }}</b>
+      <p>{{ include.person.role }}</p>
+    </div>
+</html>
+     
