@@ -2,9 +2,15 @@
 layout: page
 ---
 
-<table border="0" height="50%">
-    <tr>
-        <td style="width: 50%; height: 100%; background-color: white;">
+<style>
+    .project-col {
+        display: inline-block;
+        position: relative;
+        text-align: left;
+    }
+</style>
+
+<div class="project-col" style="width: 50%">
             <table>
                 <tr>
                     <td style="width: 50%; background-color: white;">
@@ -59,17 +65,15 @@ layout: page
                     </tr>
                 {% endif %}
             </table>
-        </td>
-        <td style="width: 50%; height: 100%; background-color: white;">
+        </div>
+        <div class="project-col" style="min-width: 300px;width: 49%;justify-content:center">
             {% if page.image %}
-                <div class="page-image">
                     <img src="{{ site.baseurl }}/img/{{ page.image }}" alt="{{ post.title }}" title="{{ post.title }}" style="width:100%">
-                </div>
-            {% endif %}
-        </td>
-    </tr>
-</table>
+                    {% endif %}
+    </div>
 
+
+<hr>
 <div class="abstract">
     <h2>Abstract</h2>
     {% if page.abstract %}
