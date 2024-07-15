@@ -3,74 +3,93 @@ layout: page
 ---
 
 <style>
+    .project-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: flex-start; /* Aligns items to the start of the container */
+    }
     .project-col {
-        display: inline-block;
-        position: relative;
         text-align: left;
+        padding: none;
+    }
+    .project-col table {
+        width: 100%;
+    }
+
+    @media (max-width: 768px) {
+        .project-container {
+            flex-direction: column;
+        }
+        .project-col {
+            width: 100%;
+            margin: 10px 0;
+        }
     }
 </style>
-
-<div class="project-col" style="width: 50%">
-            <table>
+<div class="project-container">
+    <div class="project-col" style="width: 50%">
+        <table>
+            <tr>
+                <td style="width: 50%; background-color: white;">
+                    Title:
+                </td>
+                <td style="width: 50%; background-color: white;">
+                    {{ page.title }}
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 50%; background-color: white;">
+                    Date:
+                </td>
+                <td style="width: 50%; background-color: white;">
+                    {{ page.publish_date }}
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 50%; background-color: white;">
+                    Authors:
+                </td>
+                <td style="width: 50%; background-color: white;">
+                    {{ page.authors | join: ", " }}
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 50%; background-color: white;">
+                    Tracks:
+                </td>
+                <td style="width: 50%; background-color: white;">
+                    [{{ page.tracks | join: ", " }}]
+                </td>
+            </tr>
+            {% if page.publish-url %}
                 <tr>
                     <td style="width: 50%; background-color: white;">
-                        Title:
+                        Publication:
                     </td>
                     <td style="width: 50%; background-color: white;">
-                        {{ page.title}}
+                        <a href={{ page.publish-url }}>Link to publication</a>
                     </td>
                 </tr>
+            {% endif %}
+            {% if page.artifact-url %}
                 <tr>
                     <td style="width: 50%; background-color: white;">
-                        Date:
+                        Project Artifacts:
                     </td>
                     <td style="width: 50%; background-color: white;">
-                        {{ page.publish_date }}
+                        <a href={{ page.artifact-url }}>Link to artifacts</a>
                     </td>
                 </tr>
-                <tr>
-                    <td style="width: 50%; background-color: white;">
-                        Authors:
-                    </td>
-                    <td style="width: 50%; background-color: white;">
-                        {{ page.authors | join: ", " }}
-                    </td>
-                </tr>
-                <tr>
-                    <td style="width: 50%; background-color: white;">
-                        Tracks:
-                    </td>
-                    <td style="width: 50%; background-color: white;">
-                        [{{ page.tracks | join: ", " }}]
-                    </td>
-                </tr>
-                {% if page.publish-url %}
-                    <tr>
-                        <td style="width: 50%; background-color: white;">
-                            Publication:
-                        </td>
-                        <td style="width: 50%; background-color: white;">
-                            <a href={{ page.publish-url }}>Link to publication</a>
-                        </td>
-                    </tr>
-                {% endif %}
-                {% if page.artifact-url %}
-                    <tr>
-                        <td style="width: 50%; background-color: white;">
-                            Project Artifacts:
-                        </td>
-                        <td style="width: 50%; background-color: white;">
-                            <a href={{ page.artifact-url }}>Link to artifacts</a>
-                        </td>
-                    </tr>
-                {% endif %}
-            </table>
-        </div>
-        <div class="project-col" style="min-width: 300px;width: 49%;justify-content:center">
-            {% if page.image %}
-                    <img src="{{ site.baseurl }}/img/{{ page.image }}" alt="{{ post.title }}" title="{{ post.title }}" style="width:100%">
-                    {% endif %}
+            {% endif %}
+        </table>
     </div>
+    <div class="project-col" style="min-width: 300px; width: 30%; text-align: center;">
+        {% if page.image %}
+            <img src="{{ site.baseurl }}/img/{{ page.image }}" alt="{{ post.title }}" title="{{ post.title }}" style="width: 100%">
+        {% endif %}
+    </div>
+</div>
 
 
 <hr>
