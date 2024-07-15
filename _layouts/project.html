@@ -1,0 +1,82 @@
+---
+layout: page
+---
+
+<table border="0" height="50%">
+    <tr>
+        <td style="width: 50%; height: 100%; background-color: white;">
+            <table>
+                <tr>
+                    <td style="width: 50%; background-color: white;">
+                        Title:
+                    </td>
+                    <td style="width: 50%; background-color: white;">
+                        {{ page.title}}
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 50%; background-color: white;">
+                        Date:
+                    </td>
+                    <td style="width: 50%; background-color: white;">
+                        {{ page.publish_date }}
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 50%; background-color: white;">
+                        Authors:
+                    </td>
+                    <td style="width: 50%; background-color: white;">
+                        {{ page.authors | join: ", " }}
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 50%; background-color: white;">
+                        Tracks:
+                    </td>
+                    <td style="width: 50%; background-color: white;">
+                        [{{ page.tracks | join: ", " }}]
+                    </td>
+                </tr>
+                {% if page.publish-url %}
+                    <tr>
+                        <td style="width: 50%; background-color: white;">
+                            Publication:
+                        </td>
+                        <td style="width: 50%; background-color: white;">
+                            <a href={{ page.publish-url }}>Link to publication</a>
+                        </td>
+                    </tr>
+                {% endif %}
+                {% if page.artifact-url %}
+                    <tr>
+                        <td style="width: 50%; background-color: white;">
+                            Project Artifacts:
+                        </td>
+                        <td style="width: 50%; background-color: white;">
+                            <a href={{ page.artifact-url }}>Link to artifacts</a>
+                        </td>
+                    </tr>
+                {% endif %}
+            </table>
+        </td>
+        <td style="width: 50%; height: 100%; background-color: white;">
+            {% if page.image %}
+                <div class="page-image">
+                    <img src="{{ site.baseurl }}/img/{{ page.image }}" alt="{{ post.title }}" title="{{ post.title }}" style="width:100%">
+                </div>
+            {% endif %}
+        </td>
+    </tr>
+</table>
+
+<div class="abstract">
+    <h2>Abstract</h2>
+    {% if page.abstract %}
+        {{ page.abstract | markdownify }}
+    {% endif %}
+</div>
+
+<div class="more-content">
+    {{ content }}
+</div>
