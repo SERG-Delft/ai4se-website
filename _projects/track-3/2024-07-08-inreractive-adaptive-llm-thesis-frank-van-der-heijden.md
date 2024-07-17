@@ -10,7 +10,7 @@ authors:
     - Arie van Deursen
     - Sergey Titov
     - Agnia Sergeyuk
-publish-url: "https://repository.tudelft.nl/record/uuid:69c13738-0f23-42d5-845d-3312381e3b94"
+publish-url: ""
 artifact-url: ""
 abstract: |    
     In this thesis, we have explored Large Language Model (LLM) plugins, focusing on their integration into JetBrains IDEs. We began by examining the current state of these plugins, from an early code completion tool Code4Me to the more sophisticated, interactive assistants of today. We then delved into the creation of a reusable LLM plugin and backend, detailing the design choices, architecture, and deployment strategies employed. The backend, built with Python and Django, serves as the backbone for the plugin, handling API requests, user management, and data storage. The plugin itself, developed using Kotlin and the JetBrains Plugin SDK, offers features such as an LLM chat, code completion, and customizable templates.
