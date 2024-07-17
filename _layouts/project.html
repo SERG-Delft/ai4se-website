@@ -59,7 +59,7 @@ layout: page
                     Tracks:
                 </td>
                 <td style="width: 50%; background-color: white;">
-                    [{{ page.tracks | join: ", " }}]
+                    {{ page.tracks | array_to_sentence_string }}
                 </td>
             </tr>
             {% if page.publish-url %}
