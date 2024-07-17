@@ -25,4 +25,5 @@ collections:
     sort_by: year
   projects :
     output: true
-    sort_by: track-id
+    sort_by: date
+    permalink: /:collection/:path

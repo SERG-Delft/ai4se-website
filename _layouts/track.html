@@ -19,3 +19,16 @@ layout: default
 {% assign publications = site.data.publications | where_exp: "item", "item.tracks contains page.track-id" %}
 {% assign publications-header = "Publications" %}
 {% include publications-list.html %}
+
+<h2>Projects</h2>
+<ul>
+{% assign projects_collection = site.collections | where: "label", "projects" | first %}
+    {{ projects_collection.docs }}
+    {% for project in projects_collection.docs %}
+        {% if project.path contains page.project-directory %}
+            <li>
+                {{ project.publish_date }}: <a href="{{ project.url }}">{{ project.title }}</a>
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>
