@@ -5,7 +5,6 @@ title: Code Generation and Validation
 tu-leader: Annibale Panichella
 jb-leader: Pouria Derakhshanfar
 phd: TBD
-project-directory: "track-1"
 ---
 
 This track focuses on code generation using AI techniques. We aim to explore the strategies for 1) validating this generated code and 2) how this generated code can help developers validate their handwritten code (automated test generation).
