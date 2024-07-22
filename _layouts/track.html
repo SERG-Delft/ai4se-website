@@ -19,3 +19,7 @@ layout: default
 {% assign publications = site.data.publications | where_exp: "item", "item.tracks contains page.track-id" %}
 {% assign publications-header = "Publications" %}
 {% include publications-list.html %}
+
+{% assign projects_collection = site.collections | where: "label", "projects" | first %}
+{% include projects.html %}
+
