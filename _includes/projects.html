@@ -1,0 +1,12 @@
+<h5>Projects</h5>
+<ul>
+
+    {{ projects_collection.docs }}
+    {% for project in projects_collection.docs %}
+        {% if project.tracks contains page.track-id %}
+            <li>
+                {{ project.publish_date }}: <a href="{{ project.url }}">{{ project.title }}</a>
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>
