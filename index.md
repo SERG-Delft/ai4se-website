@@ -14,9 +14,9 @@ The research partnership is run by a joint team of researchers at JetBrains and 
 [Arie van Deursen][avandeursen] and [Maliheh Izadi][maliheh] from TU Delft,
 as well as [Vladimir Kovalenko][vladimir] and [Pouria Derakhshanfar][pouria] from JetBrains._
 
-Involvement in AI4SE comes from the Applied Program Analysis, ICTL, and ML4SE labs at JetBrains Research, and the
-Software Engineering Research Group from TU Delft.
-
+Involvement in AI4SE comes from the Applied Program Analysis, ICTL, and ML4SE labs at JetBrains Research.
+From TU Delft involved are the AISE and [CISE](https://www.ciselab.nl/) labs from the [Software Engineering Research Group](https://se.ewi.tudelft.nl/) and the [Center of Education and Learning](https://www.educationandlearning.nl/home).
+We are open to collaborations!
 
 AI4SE was launched in 2023, and participates in the Innovation Center for Artificial Intelligence ([ICAI]) as one of its labs. 
 
