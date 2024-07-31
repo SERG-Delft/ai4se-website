@@ -9,13 +9,14 @@ title: AI for Software Engineering
 
 The emergence of advanced AI-driven tools has led to a wide range of opportunities and transformations in software engineering practices and education. Recognizing this potential, [JetBrains] and [Delft University of Technology][tudelft] have collaborated to establish the **AI for Software Engineering (AI4SE)** research partnership. Together, we are committed to conducting cutting-edge research on the impact and utilization of AI methodologies in software engineering. Our areas of focus include diverse facets of the domain, such as software development, testing, and programming education.
 
-_The core of AI4SE consists of five [research tracks](tracks) in which researchers and five PhD students (one for each track) work together on a range of relevant topics.
+_The core of AI4SE consists of five [research tracks](tracks) 
+in which researchers and five PhD students (one for each track) work together on a range of relevant topics.
 The research partnership is run by a joint team of researchers at JetBrains and TU Delft, including 
 [Arie van Deursen][avandeursen] and [Maliheh Izadi][maliheh] from TU Delft,
 as well as [Vladimir Kovalenko][vladimir] and [Pouria Derakhshanfar][pouria] from JetBrains._
 
-Involvement in AI4SE comes from the Applied Program Analysis, ICTL, and ML4SE labs at JetBrains Research.
-From TU Delft involved are the AISE and [CISE](https://www.ciselab.nl/) labs from the [Software Engineering Research Group](https://se.ewi.tudelft.nl/) and the [Center of Education and Learning](https://www.educationandlearning.nl/home).
+Applied Program Analysis, ICTL, and ML4SE labs from JetBrains Research are involved in AI4SE.
+From TU Delft's side, [AISE][aise] and [CISE](https://www.ciselab.nl/) research labs from the [Software Engineering Research Group][serg] and the [Center of Education and Learning](https://www.educationandlearning.nl/home) are involved.
 We are open to collaborations!
 
 AI4SE was launched in 2023, and participates in the Innovation Center for Artificial Intelligence ([ICAI]) as one of its labs. 
@@ -29,4 +30,6 @@ AI4SE was launched in 2023, and participates in the Innovation Center for Artifi
 [maliheh]: https://malihehizadi.github.io/PersonalWebsite/
 [vladimir]: https://vovak.me/about/
 [pouria]: https://pouria-d.me/
+[aise]: https://www.linkedin.com/company/aise-tudelft/
+[serg]: https://se.ewi.tudelft.nl/
 
