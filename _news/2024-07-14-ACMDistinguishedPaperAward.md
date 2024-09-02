@@ -1,6 +1,6 @@
 ---
 layout: news-item
-date: 2024-05-14
+date: 2024-07-14
 title: "ACM Distinguished Paper Award at AIWare 2024"
 tracks: [2,3]
 ---
