@@ -7,7 +7,7 @@ The AI4SE web site is built with Jekyll and is running on GitHub pages.
 There are two options to build the website locally:
 
 * Installing and running Jekyll
-* Running Jekyll from a Docker container
+* Running Jekyll with a Docker container
 
 #### Installing and running Jekyll
 
