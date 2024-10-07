@@ -33,3 +33,22 @@
   venue: Proceedings of the 1st ACM International Conference on AI-Powered Software (AIWare), ACM Distinguished Paper Award
   year: 2024
   preprint: https://dl.acm.org/doi/abs/10.1145/3664646.3664760
+
+- title: Long Code Arena; a Set of Benchmarks for Long-Context Code Models
+  authors:
+    - Egor Bogomolov
+    - Aleksandra Eliseeva
+    - Timur Galimzyanov
+    - Evgeniy Glukhov
+    - Anton Shapkin
+    - Maria Tigina
+    - Yaroslav Golubev
+    - Alexander Kovrigin
+    - Arie van Deursen
+    - Maliheh Izadi
+    - Timofey Bryksin
+  tracks:
+    - 2
+  venue: Preprint
+  year: 2024
+  preprint: https://arxiv.org/abs/2406.11612
