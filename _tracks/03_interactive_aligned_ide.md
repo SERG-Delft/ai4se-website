@@ -1,10 +1,20 @@
 ---
 layout: track
 track-id: 3
-title: Interactive and Aligned IDEs
-tu-leader: Maliheh Izadi
-jb-leader: Sergey Titov
-phd: To Be Hired
+title: Interactive and Aligned IDEs in the LLM Era
+tu-leader: Maliheh Izadi (Assistant Professor)
+jb-leader: Sergey Titov (Senior researcher)
+phd: Agnia Sergeyuk
 ---
 
-This track aims to embed emerging large language model practices, such as code generation or code explanation, into developers' workflows without disturbing users to improve their productivity. To do so, we will study user interaction with the model in IDEs, research the user experience, and investigate how to best build trust between developers and their intelligent agents.
+An essential part of the success of tools like GitHub Copilot and ChatGPT is their interface. While some of these models' capabilities were available before, the tools brought them to larger audiences without dramatically disrupting their workflow or requiring lots of additional steps. IDE users have their own workflows and the injection of new complex features, such as LLM-based ones, is a non-trivial task. We believe that there is significant space for innovation in the field of Human-AI interaction. While chat is a popular and user-friendly way of using LLMs, we believe there are better ways to utilize them in IDEs. 
+
+The goal of this project is to embed emerging LLMs practices as code generation or code explanation into the developer workflow without disturbing the user and improving her productivity. 
+
+#### PhD Students: 
+- Agnia Sergeyuk (JetBrains)
+- TBA (TU Delft)
+  
+#### MSc Students:
+- Remco Schrijver (graduated in 2024): [Thesis](/projects/track-1/2024-07-08-beyond-acceptance-rates-thesis-remco-schrijver)
+- Frank van der Heijden (graduated in 2024): [Thesis](/projects/track-3/2024-07-08-inreractive-adaptive-llm-thesis-frank-van-der-heijden)
