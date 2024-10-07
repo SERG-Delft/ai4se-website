@@ -20,4 +20,16 @@
     - 3
   venue: IDE Workshop (ICSE 2024)
   year: 2024
-  preprint: https://arxiv.org/pdf/2401.10739
+  preprint: https://dl.acm.org/doi/10.1145/3643796.3648463
+
+  - title: A Transformer-Based Approach for Smart Invocation of Automatic Code Completion
+  authors:
+    - Aral de Moor
+    - Arie van Deursen
+    - Maliheh Izadi
+  tracks:
+    - 2
+    - 3
+  venue: Proceedings of the 1st ACM International Conference on AI-Powered Software (AIWare), ACM Distinguished Paper Award
+  year: 2024
+  preprint: https://dl.acm.org/doi/abs/10.1145/3664646.3664760
