@@ -37,7 +37,7 @@
       affiliation: JetBrains
       photo_url: img/avatars/marat.jpeg
 
-- category: Track 2 - Adaptation of Large Language Models
+- category: Track 2 - LLM Adaptation for Coding Tasks
   people:
     - name: Maliheh Izadi
       role: Track Lead
@@ -100,7 +100,7 @@
 - category: Former people
   people:
     - name: Remco Schrijver
-      role: Graduated MSc Student/Intern (Track 1 and 3)
+      role: Graduated MSc Student/Intern (Track 1, 3)
       affiliation: JetBrains, TUDelft 
       photo_url: img/avatars/remco.jpeg
     - name: Tim van Dam
