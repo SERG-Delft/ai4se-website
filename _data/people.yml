@@ -47,6 +47,10 @@
       role: Track Lead/PhD Researcher
       affiliation: JetBrains
       photo_url: img/avatars/egor-b.jpeg
+    - name: Daniele Cipollone
+      role: PhD Researcher
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/daniele.jpeg
 
 - category: Track 3 - Interactive and Aligned IDE
   people:
