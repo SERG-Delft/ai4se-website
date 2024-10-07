@@ -9,7 +9,7 @@ phd: Agnia Sergeyuk
 
 An essential part of the success of tools like GitHub Copilot and ChatGPT is their interface. While some of these models' capabilities were available before, the tools brought them to larger audiences without dramatically disrupting their workflow or requiring lots of additional steps. IDE users have their own workflows and the injection of new complex features, such as LLM-based ones, is a non-trivial task. We believe that there is significant space for innovation in the field of Human-AI interaction. While chat is a popular and user-friendly way of using LLMs, we believe there are better ways to utilize them in IDEs. 
 
-The goal of this project is to embed emerging LLMs practices as code generation or code explanation into the developer workflow without disturbing the user and improving her productivity. 
+The goal of this project is to embed emerging LLM practices as code generation or code explanation into the developer workflow without disturbing the user and improving her productivity. 
 
 #### PhD Students: 
 - Agnia Sergeyuk (JetBrains)
@@ -18,3 +18,4 @@ The goal of this project is to embed emerging LLMs practices as code generation 
 #### MSc Students:
 - Remco Schrijver (graduated in 2024): [Thesis](/projects/track-1/2024-07-08-beyond-acceptance-rates-thesis-remco-schrijver)
 - Frank van der Heijden (graduated in 2024): [Thesis](/projects/track-3/2024-07-08-inreractive-adaptive-llm-thesis-frank-van-der-heijden)
+- Andrei Ionescu: [Thesis](\projects/track-3/2024-10-07-onboarding-agent_andrei-ionescu.md)
