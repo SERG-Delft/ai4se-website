@@ -36,10 +36,6 @@
       role: Researcher
       affiliation: JetBrains
       photo_url: img/avatars/marat.jpeg
-    - name: Remco Schrijver
-      role: Intern/MSc Student
-      affiliation: JetBrains, TUDelft
-      photo_url: img/avatars/remco.jpeg
 
 - category: Track 2 - Adaptation of Large Language Models
   people:
@@ -51,10 +47,6 @@
       role: Track Lead/PhD Researcher
       affiliation: JetBrains
       photo_url: img/avatars/egor-b.jpeg
-    - name: Tim Olivier van Dam
-      role: Intern/MSc Student
-      affiliation: JetBrains, TUDelft
-      photo_url: img/avatars/tim.jpeg
 
 - category: Track 3 - Interactive and Aligned IDE
   people:
@@ -74,14 +66,6 @@
       role: Intern/MSc Student
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/andrei.jpeg
-    - name: Frank van der Heijden
-      role: Intern/MSc Student
-      affiliation: JetBrains, TUDelft
-      photo_url: img/avatars/frank.jpeg
-    - name: Remco Schrijver
-      role: Intern/MSc Student
-      affiliation: JetBrains, TUDelft
-      photo_url: img/avatars/remco.jpeg
 
 - category: Track 4 - Utilizing Runtime Information to Improve Development Processes
   people:
@@ -108,3 +92,18 @@
       role: Track Lead
       affiliation: JetBrains
       photo_url: img/avatars/anastasiia.jpeg
+
+- category: Former people
+  people:
+    - name: Remco Schrijver
+      role: Graduated MSc Student/Intern (Track 1 and 3)
+      affiliation: JetBrains, TUDelft 
+      photo_url: img/avatars/remco.jpeg
+    - name: Tim van Dam
+      role: Graduated MSc Student/Intern (Track 2)
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/tim.jpeg      
+    - name: Frank van der Heijden
+      role: Graduated MSc Student/Intern (Track 3)
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/frank.jpeg
