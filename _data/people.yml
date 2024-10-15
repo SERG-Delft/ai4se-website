@@ -36,6 +36,10 @@
       role: Researcher
       affiliation: JetBrains
       photo_url: img/avatars/marat.jpeg
+    - name: Sergey Datskiv
+      role: Intern/MSc Student
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/sergey-datskiv.jpg
 
 - category: Track 2 - LLM Adaptation for Coding Tasks
   people:

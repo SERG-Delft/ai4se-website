@@ -28,4 +28,4 @@ We are currently working on assessing different test generation approaches in a 
 
 ### PhD Student: Azat Abdullin
 ### MSc Students:
-- TBD
+- Sergey Datskiv
