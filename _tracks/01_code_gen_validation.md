@@ -18,6 +18,7 @@ Additionally, we plan to use test generation to validate the code created by LLM
 ### PhD Student: TBD
 ### MSc Students:
 - Remco Schrijver: [Thesis](/projects/track-1/2024-07-08-beyond-acceptance-rates-thesis-remco-schrijver)
+- Milan de Koning
 
 ## 2. Automated Test Generation
 Both JetBrains and TUDelft are involve in multiple research studies and tool developments about automated test generation using varios AI-based techniques.

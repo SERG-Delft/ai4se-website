@@ -40,6 +40,10 @@
       role: Intern/MSc Student
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/sergey-datskiv.jpg
+    - name: Milan de Koning
+      role: Intern/MSc Student
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/milan.jpg
 
 - category: Track 2 - LLM Adaptation for Coding Tasks
   people:
