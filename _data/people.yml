@@ -104,6 +104,19 @@
       role: Track Lead
       affiliation: JetBrains
       photo_url: img/avatars/anastasiia.jpeg
+    - name: Yuri Noviello
+      role: PhD Researcher
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/yuri.jpeg
+    - name: Arnav Chopra
+      role: Intern/MSc Student
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/arnav.jpg
+    - name: Casper Dekeling
+      role: Intern/MSc Student
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/casper.jpg
+      
 
 - category: Former people
   people:
