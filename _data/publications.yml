@@ -52,3 +52,16 @@
   venue: Preprint
   year: 2024
   preprint: https://arxiv.org/abs/2406.11612
+
+- title: The Design Space of in-IDE Human-AI Experience
+  authors:
+    - Agnia Sergeyuk
+    - Ekaterina Koshchenko
+    - Ilya Zakharov
+    - Timofey Bryksin
+    - Maliheh Izadi
+  tracks:
+    - 3
+  venue: Preprint
+  year: 2024
+  preprint: https://arxiv.org/abs/2410.08676
