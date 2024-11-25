@@ -27,6 +27,9 @@ At JetBrains Research, we are working on [TestSpark](https://plugins.jetbrains.c
 
 We are currently working on assessing different test generation approaches in a systematic way in order to understand the positive and negative impacting factors in each of these techniques. The output of this study will help us to work on a new hybrid test generation approach that can generate tests with higher coverage and fault-detection
 
+Another focus is specifically the validation of automated JavaScript test generation. This involves constructing a benchmarking dataset from diverse JavaScript projects, with an emphasis on backend libraries and mitigating data leakage in LLM-based tools. Static analysis will be employed to select a varied range of projects for evaluation. Test generation tools such as Syntest, JetBrains' AI assistant, and TestPilot will be assessed for both quantitative and qualitative differences in metrics like coverage. Special emphasis is placed on JavaScript’s unique features, including its dynamic typing and flexibility, to understand their impact on test generation performance.
+
 ### PhD Student: Azat Abdullin
 ### MSc Students:
 - Sergey Datskiv
+- Saga Rut Sunnevudóttir
