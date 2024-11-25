@@ -44,6 +44,10 @@
       role: Intern/MSc Student
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/milan.jpg
+    - name: Saga Rut Sunnevudóttir
+      role: Intern/MSc Student
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/saga.jpeg
 
 - category: Track 2 - LLM Adaptation for Coding Tasks
   people:
