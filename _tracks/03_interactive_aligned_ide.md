@@ -4,7 +4,7 @@ track-id: 3
 title: Interactive and Aligned IDEs in the LLM Era
 tu-leader: Maliheh Izadi (Assistant Professor)
 jb-leader: Sergey Titov (Senior researcher)
-phd: Agnia Sergeyuk
+phd: Agnia Sergeyuk, Ziyou Li
 ---
 
 An essential part of the success of tools like GitHub Copilot and ChatGPT is their interface. While some of these models' capabilities were available before, the tools brought them to larger audiences without dramatically disrupting their workflow or requiring lots of additional steps. IDE users have their own workflows and the injection of new complex features, such as LLM-based ones, is a non-trivial task. We believe that there is significant space for innovation in the field of Human-AI interaction. While chat is a popular and user-friendly way of using LLMs, we believe there are better ways to utilize them in IDEs. 
@@ -13,7 +13,7 @@ The goal of this project is to embed emerging LLM practices as code generation o
 
 #### PhD Students: 
 - Agnia Sergeyuk (JetBrains)
-- TBA (TU Delft)
+- Ziyou Li (TU Delft)
   
 #### MSc Students:
 - Remco Schrijver (graduated in 2024): [Thesis](/projects/track-1/2024-07-08-beyond-acceptance-rates-thesis-remco-schrijver)
