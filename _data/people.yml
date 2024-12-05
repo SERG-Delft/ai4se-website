@@ -82,6 +82,10 @@
       role: Intern/MSc Student
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/andrei.jpeg
+    - name: Ziyou Li
+      role: PhD Researcher
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/ziyou.jpg
 
 - category: Track 4 - Utilizing Runtime Information to Improve Development Processes
   people:
