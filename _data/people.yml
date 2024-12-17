@@ -1,19 +1,19 @@
 - category: Administrators
   people:
     - name: Arie van Deursen
-      role: Academic Lead
+      role: Scientific Director
       affiliation: TUDelft
       photo_url: img/avatars/arie.jpeg
     - name: Maliheh Izadi
-      role: Academic Administrator
+      role: Scientific Manager
       affiliation: TUDelft
       photo_url: img/avatars/maliheh.jpeg
     - name: Vladimir Kovalenko
-      role: Industry Lead
+      role: Industry Director
       affiliation: JetBrains
       photo_url: img/avatars/vladimir.png
     - name: Pouria Derakhshanfar
-      role: Industry Administrator
+      role: Industry Manager
       affiliation: JetBrains
       photo_url: img/avatars/pouria.jpeg
 
@@ -78,14 +78,14 @@
       role: PhD Researcher
       affiliation: JetBrains
       photo_url: img/avatars/agnia.jpeg
-    - name: Andrei-Cristian Ionescu
-      role: Intern/MSc Student
-      affiliation: JetBrains, TUDelft
-      photo_url: img/avatars/andrei.jpeg
     - name: Ziyou Li
       role: PhD Researcher
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/ziyou.jpg
+    - name: Nadine Kuo
+      role: Intern/MSc Student
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/nadine.png
 
 - category: Track 4 - Utilizing Runtime Information to Improve Development Processes
   people:
@@ -140,3 +140,7 @@
       role: Graduated MSc Student/Intern (Track 3)
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/frank.jpeg
+    - name: Andrei-Cristian Ionescu
+      role: Graduated MSc Student/Intern (Track 3)
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/andrei.jpeg
