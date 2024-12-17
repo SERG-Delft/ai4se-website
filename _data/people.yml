@@ -63,6 +63,7 @@
       role: PhD Researcher
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/daniele.jpeg
+  
 
 - category: Track 3 - Interactive and Aligned IDE
   people:
@@ -86,6 +87,10 @@
       role: Intern/MSc Student
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/nadine.png
+    - name: Roham Koohestani
+      role: Research Assistant
+      affiliation: TUDelft
+      photo_url: img/avatars/roham.jpg
 
 - category: Track 4 - Utilizing Runtime Information to Improve Development Processes
   people:
