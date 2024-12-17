@@ -65,3 +65,13 @@
   venue: Preprint
   year: 2024
   preprint: https://arxiv.org/abs/2410.08676
+
+- title: Rethinking IDE Customization for Enhanced HAX: A Hyperdimensional Perspective
+  authors:
+    - Roham Koohestani
+    - Maliheh Izadi
+  tracks:
+    - 3
+  venue: The 2nd Workshop on Integrated Development Environments (the IDE Workshop), Co-located with ACM/IEEE ICSE 2025
+  year: 2025
+  preprint: 
