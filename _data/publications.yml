@@ -18,11 +18,11 @@
     - Maliheh Izadi
   tracks:
     - 3
-  venue: IDE Workshop (ICSE 2024)
+  venue: The 1st Workshop on Integrated Development Environments (the <b>IDE</b> Workshop), Co-located with <b>ACM/IEEE ICSE</b>
   year: 2024
   preprint: https://dl.acm.org/doi/10.1145/3643796.3648463
 
-- title: A Transformer-Based Approach for Smart Invocation of Automatic Code Completion
+- title: <i>A Transformer-Based Approach for Smart Invocation of Automatic Code Completion</i>
   authors:
     - Aral de Moor
     - Arie van Deursen
@@ -30,11 +30,11 @@
   tracks:
     - 2
     - 3
-  venue: Proceedings of the 1st ACM International Conference on AI-Powered Software (AIWare), ACM Distinguished Paper Award
+  venue: Proceedings of the 1st ACM International Conference on AI-Powered Software (<b>AIWare</b>), <strong>ACM Distinguished Paper Award</strong>, co-located with ACM <b>FSE</b>
   year: 2024
   preprint: https://dl.acm.org/doi/abs/10.1145/3664646.3664760
 
-- title: Long Code Arena; a Set of Benchmarks for Long-Context Code Models
+- title: <i>Long Code Arena; a Set of Benchmarks for Long-Context Code Models</i>
   authors:
     - Egor Bogomolov
     - Aleksandra Eliseeva
@@ -53,7 +53,7 @@
   year: 2024
   preprint: https://arxiv.org/abs/2406.11612
 
-- title: The Design Space of in-IDE Human-AI Experience
+- title: <i>The Design Space of in-IDE Human-AI Experience</i>
   authors:
     - Agnia Sergeyuk
     - Ekaterina Koshchenko
