@@ -1,6 +1,8 @@
 {% if publications != empty %}
 <!--h5 class="publications-header">{{ publications-header }}</h5-->
+<ol>
 {% for item in publications reversed -%}
+<li>
 <div class="publications-item">
     <span class="publications-item__authors">
         {{item.authors | array_to_sentence_string}}.
@@ -19,7 +21,9 @@
         <i>{{item.year}}</i>
     </span>
 </div>
+</li>
 {% endfor %}
+</ol>
 {% else %}
 <span class="publications-header--empty">
 </span>
