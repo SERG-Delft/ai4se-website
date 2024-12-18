@@ -11,6 +11,18 @@
   year: 2024
   preprint: https://arxiv.org/pdf/2401.06653
 
+- title: "TestSpark: IntelliJ IDEA's Ultimate Test Generation Companion"
+  authors:
+    - Arkadii Sapozhnikov
+    - Mitchell Olsthoorn
+    - A. Panichella
+    - V.V. Kovalenko
+    - P. Derakhshanfar
+  tracks: 1
+  venue: Proceedings - 2024 ACM/IEEE 46th International Conference on Software Engineering
+  year: 2024
+  preprint: https://research.tudelft.nl/en/publications/testspark-intellij-ideas-ultimate-test-generation-companion
+
 - title: In-IDE Human-AI Experience in the Era of Large Language Models; A Literature Review
   authors:
     - Agnia Sergeyuk
