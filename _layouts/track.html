@@ -13,7 +13,7 @@ layout: default
 {{ content }}
 
 {% assign news = site.news | where_exp: "item", "item.tracks contains page.track-id" %}
-{% assign news-header = "Track news" %}
+{% assign news-header = "Track News" %}
 {% include news-feed.html %}
 
 {% assign publications = site.data.publications | where_exp: "item", "item.tracks contains page.track-id" %}
