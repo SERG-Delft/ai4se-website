@@ -106,6 +106,10 @@
       role: Track Lead/PhD Researcher
       affiliation: JetBrains
       photo_url: img/avatars/egor-k.jpeg
+    - name: Zahra Seyedghorban
+      role: PhD Researcher
+      affiliation: TUDelft
+      photo_url: img/avatars/zahra.jpg
 
 - category: Track 5 - Intelligent Teaching Assistant in Programming Education
   people:
