@@ -21,6 +21,9 @@ We are open to collaborations!
 
 AI4SE was launched in 2023, and participates in the Innovation Center for Artificial Intelligence ([ICAI]) as one of its labs. 
 
+![](/img/tudelft-jan-2025.jpeg){: width="100%"}
+
+_The AI4SE team at the kickoff retreat in January 2025_
 
 
 [icai]: https://icai.ai/
