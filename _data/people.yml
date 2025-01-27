@@ -1,9 +1,13 @@
 - category: AI4SE Board
   people:
     - name: Arie van Deursen
-      role: Scientific Director
+      role: Scientific Co-Director
       affiliation: TUDelft
       photo_url: img/avatars/arie.jpeg
+    - name: Annibale Panichella
+      role: Scientific Co-Director
+      affiliation: TUDelft
+      photo_url: img/avatars/annibale.jpeg
     - name: Maliheh Izadi
       role: Scientific Manager
       affiliation: TUDelft
