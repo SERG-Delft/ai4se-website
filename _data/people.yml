@@ -20,6 +20,10 @@
       role: Industry Manager
       affiliation: JetBrains
       photo_url: img/avatars/pouria.jpeg
+    - name: Venkatesh Chandrasekar
+      role: Partnerships Coordinator
+      affiliation: TU Delft
+      photo_url: img/avatars/venkatesh.jpeg
 
 
 - category: Track 1 - Validation of Generated Code
